@@ -1,0 +1,21 @@
+C:\Users\maico\Google Drive\DESKTOP\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.dll
+C:\Users\maico\Google Drive\DESKTOP\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.pdb
+C:\Users\maico\Google Drive\DESKTOP\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.dll
+C:\Users\maico\Google Drive\DESKTOP\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.pdb
+C:\Users\maico\Google Drive\DESKTOP\Video Aulas C# - Controle de Estoque\PROJETOS C#\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.dll
+C:\Users\maico\Google Drive\DESKTOP\Video Aulas C# - Controle de Estoque\PROJETOS C#\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.pdb
+C:\Users\maico\Google Drive\DESKTOP\Video Aulas C# - Controle de Estoque\PROJETOS C#\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.dll
+C:\Users\maico\Google Drive\DESKTOP\Video Aulas C# - Controle de Estoque\PROJETOS C#\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.pdb
+C:\Users\maico\Google Drive\DESKTOP\Video Aulas C# - Controle de Estoque\PROJETOS C#\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.csprojResolveAssemblyReference.cache
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.dll
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.pdb
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.csprojAssemblyReference.cache
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.dll
+C:\Users\EBMASTER\Desktop\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.pdb
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.dll
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\bin\Debug\DllConsultaCNPJ.pdb
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.csprojAssemblyReference.cache
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.dll
+C:\Users\Danilo Filitto\Downloads\ConsultaCNPJ\ConsultaCNPJ\DLL\DllConsultaCNPJ\obj\Debug\DllConsultaCNPJ.pdb
